@@ -1,0 +1,31 @@
+# Core
+langchain
+langchain-community
+langgraph
+langchain_text_splitters
+langchain-huggingface
+google-genai
+
+
+# LLM
+google-generativeai
+
+# Embeddings & Vector Store
+sentence-transformers
+faiss-cpu
+
+# Data Sources
+yfinance
+pandas
+
+# Document Processing
+pypdf
+
+# API
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+python-dotenv
+pydantic

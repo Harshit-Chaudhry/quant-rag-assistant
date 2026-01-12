@@ -1,0 +1,56 @@
+
+======================================================================
+Tata Consultancy Services Limited - FINANCIAL ANALYSIS REPORT
+======================================================================
+Report Generated: 11-01-2026 12:30
+
+COMPANY OVERVIEW
+======================================================================
+Company Name: Tata Consultancy Services Limited
+Stock Symbol: TCS.NS
+Sector: Technology
+Industry: Information Technology Services
+Market Cap: ₹11,606,100,541,440
+Employees: 607,979
+
+BUSINESS DESCRIPTION
+======================================================================
+Tata Consultancy Services Limited provides information technology (IT) and IT enabled services in the Americas, Europe, India, and internationally. The company provides TCS ADD, a suite of AI powered life sciences platforms; TCS BaNCS, a financial services platform; TCS BFSI Platforms, a cloud-native, as-a-service digital ecosystem for insurers and financial firms; TCS Chroma, a cloud-based human resource management system platform; TCS Customer Intelligence & Insights, an AI-driven customer analytics and real-time CDP solution; TCS ERP on Cloud, an SAP platform as a service; ignio, a cognitive automation software product; TCS iON, a learning ecosystem; and TCS HOBS, a cloud-native, catalog-centric platform for personalization of products and processes. It also offers TCS Intelligent Urban Exchange for enterprises and smart cities; TCS OmniStore, a retail commerce platform; TCS Optumera, a retail-connected strategic intelligence platform; TCS Tap, a platform for intelligent procurement; Quartz, a distributed ledger technology; TCS TwinX, an enterprise digital twin platform; TCS MasterCraft, an AI-driven cognitive automation product; Jile, an enterprise agile planning and delivery tool; and TCS DigiBOLT, an end-to-end, organization-wide enterprise platform. In addition, the company provides cloud, cognitive business, consulting, cybersecurity, data and analytics, enterprise solutions, IoT and digital engineering, TCS interactive, artificial intelligence, network solutions, and sustainability services. It serves banking; capital markets; consumer packaged goods and distribution; communications, media, and information services; education; energy, resources, and utilities; healthcare; high tech; insurance; life sciences; manufacturing; public services; retail; and travel and logistics industries. The company was founded in 1968 and is based in Mumbai, India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Private Limited.
+
+KEY FINANCIAL METRICS
+======================================================================
+Revenue (TTM): ₹2,576,879,976,448
+Net Profit Margin: 19.19%
+Operating Margin: 25.18%
+Return on Equity: 47.36%
+Debt to Equity: 10.17
+Current Ratio: 2.43
+P/E Ratio: 23.47
+EPS: 136.65
+
+QUARTERLY PERFORMANCE
+======================================================================
+
+Quarter: Jun 2025
+----------------------------------------
+Revenue: ₹63,437.00 Cr
+Net Profit: ₹12,760.00 Cr
+
+Quarter: Mar 2025
+----------------------------------------
+Revenue: ₹64,479.00 Cr
+Net Profit: ₹12,224.00 Cr
+
+Quarter: Dec 2024
+----------------------------------------
+Revenue: ₹63,973.00 Cr
+Net Profit: ₹12,380.00 Cr
+
+Quarter: Sep 2024
+----------------------------------------
+Revenue: ₹64,259.00 Cr
+Net Profit: ₹11,909.00 Cr
+
+======================================================================
+End of Report
+======================================================================
