@@ -30,7 +30,7 @@ class RAGPipeline:
         self.embedding_manager = EmbeddingManager()
         self.vector_manager = VectorStoreManager(self.embedding_manager, store_name)
         self.retriever = Retriever(self.vector_manager)
-        self.llm_manager = LLMManager(api_key="AIzaSyB3N43YasKwC_TGyM33e1tVyfcjV5B1_1Y")
+        self.llm_manager = LLMManager(api_key=self.api_key)
         self.answer_generator = AnswerGenerator(self.llm_manager)
         
         print("\n✓ RAG Pipeline ready!")

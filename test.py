@@ -6,7 +6,7 @@ from src.pipeline import RAGPipeline
 load_dotenv()
 
 # Set API key if not in .env
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyB3N43YasKwC_TGyM33e1tVyfcjV5B1_1Y'  # Replace if needed
+os.environ['GOOGLE_API_KEY'] = 'Your_API_KEY'  # Replace if needed
 
 print("\n" + "="*60)
 print("TESTING RAG PIPELINE")
