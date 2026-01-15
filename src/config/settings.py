@@ -3,6 +3,9 @@
 import os
 from pathlib import Path
 from dataclasses import dataclass
+from dotenv import load_dotenv
+load_dotenv()
+
 
 
 @dataclass
@@ -16,8 +19,9 @@ class Settings:
     VECTORSTORE_DIR: Path = DATA_DIR / "vectorstore"
     
     # API Keys
-    GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")
-    #OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
+    GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY")
+    #OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "") GOOGLE_API_KEY
+    # print(GOOGLE_API_KEY)
     
     # Embedding settings
     EMBEDDING_MODEL: str = "sentence-transformers/all-MiniLM-L6-v2"

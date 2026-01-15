@@ -2,7 +2,7 @@
 ======================================================================
 Tata Consultancy Services Limited - FINANCIAL ANALYSIS REPORT
 ======================================================================
-Report Generated: 11-01-2026 12:30
+Report Generated: 13-01-2026 17:41
 
 COMPANY OVERVIEW
 ======================================================================
@@ -10,7 +10,7 @@ Company Name: Tata Consultancy Services Limited
 Stock Symbol: TCS.NS
 Sector: Technology
 Industry: Information Technology Services
-Market Cap: ₹11,606,100,541,440
+Market Cap: ₹11,823,909,699,584
 Employees: 607,979
 
 BUSINESS DESCRIPTION
@@ -19,14 +19,12 @@ Tata Consultancy Services Limited provides information technology (IT) and IT en
 
 KEY FINANCIAL METRICS
 ======================================================================
-Revenue (TTM): ₹2,576,879,976,448
-Net Profit Margin: 19.19%
-Operating Margin: 25.18%
-Return on Equity: 47.36%
+Revenue (TTM): ₹2,615,129,931,776
+Net Profit Margin: 18.25%
+Operating Margin: 26.40%
 Debt to Equity: 10.17
-Current Ratio: 2.43
-P/E Ratio: 23.47
-EPS: 136.65
+P/E Ratio: 24.79
+EPS: 131.85
 
 QUARTERLY PERFORMANCE
 ======================================================================

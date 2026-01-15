@@ -22,6 +22,7 @@ class RAGPipeline:
         print("="*60)
         
         self.store_name = store_name
+        self.api_key = api_key
         
         # Initialize components
         self.data_source = YahooFinanceSource()

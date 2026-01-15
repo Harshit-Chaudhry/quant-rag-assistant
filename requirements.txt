@@ -29,3 +29,9 @@ python-multipart
 # Utilities
 python-dotenv
 pydantic
+
+# UI app
+
+streamlit
+requests
+plotly
